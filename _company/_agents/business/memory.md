@@ -15,3 +15,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-15] Researcher로부터 확보된 경쟁사 데이터를 기반으로, 확정된 마케팅 메시지(`Final_Core_Messaging_Guide_v1.md`)를 적용하여 초기 마케팅 예산 배분(CAC/LTV)을 재점검하고 최종 실행 계획(Runbook) 수립을 시작할 것. → 산출물 sessions/2026-05-15T03-03/business.md
 - [2026-05-15] 식별된 최우선 작업을 기반으로 실행 가능한 전략과 우선순위를 설정하고, 해당 작업을 수행하기 위한 자원 배분 계획을 수립하라. → 산출물 sessions/2026-05-15T03-18/business.md
 - [2026-05-15] Researcher가 확보한 경쟁사 ROI 및 가격 정책 데이터를 기반으로, 서비스 런칭에 필요한 최종 CAC/LTV 실행 계획(Runbook)을 확정하고 상세 실행 단계를 수립하세요. → 산출물 sessions/2026-05-15T03-48/business.md
+- [2026-05-15] Researcher가 제공하는 데이터를 기반으로, 서비스 런칭을 위한 최종 CAC/LTV 실행 계획(Runbook)의 초안을 작성하라. (Phase 2 준비) → 산출물 sessions/2026-05-15T04-03/business.md
