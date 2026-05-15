@@ -20,3 +20,6 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-15] Runbook 초안에 기반하여, 가장 효율적인 채널(유튜브/인스타)에 대한 최종 예산 배분 비율과 Pilot Test 계획을 확정하고 세부 실행 단계를 수립하라. → 산출물 sessions/2026-05-15T05-03/business.md
 - [2026-05-15] 최종 CAC 목표와 LTV:CAC 비율(3:1)을 기준으로 Pilot Test에 필요한 채널별 예산 분배 계획을 재검토하고 세부 실행 단계를 수립하세요. → 산출물 sessions/2026-05-15T05-18/business.md
 - [2026-05-15] Pilot Test Runbook을 기반으로, 채널별(YouTube/Instagram) 예산 배분 계획 및 초기 마케팅 캠페인 세부 실행 단계를 최종 확정하고 보고하라. → 산출물 sessions/2026-05-15T05-33/business.md
+- [2026-05-15] Pilot Test Runbook에 기반하여 YouTube와 Instagram 채널에 대한 최종 예산 배분 계획(YouTube 60%, Instagram 40% 기준)과 초기 마케팅 캠페인의 세부 실행 단계를 확정하고 보고하라. → 산출물 sessions/2026-05-15T06-18/business.md
+- [2026-05-15] Pilot Test Runbook에 따라, 서비스 런칭 직후 모니터링할 핵심 KPI(CAC, LTV 추적 지표)를 정의하고, 초기 마케팅 예산 배분 계획의 실시간 트래킹 환경 구축 방안을 수립하라. → 산출물 sessions/2026-05-15T07-03/business.md
+- [2026-05-15] LTV:CAC 목표 달성을 위한 KPI(CAC, LTV)의 구체적인 측정 지표와 초기 데이터 수집 파라미터를 최종 확정하고, 이를 개발팀에 전달할 실행 명세를 작성하라. → 산출물 sessions/2026-05-15T07-18/business.md

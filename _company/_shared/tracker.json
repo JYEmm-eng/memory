@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "id": "20260515072442-9f65",
+      "title": "데이터 수집 파이프라인: 마케팅 비용 지출 영수증/플랫폼 결제액과 100% 일치하는지 확인.",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-15T07:24:42.796Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T07-18",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T07-18/_report.md\n- 현빈: LTV:CAC 목표 달성을 위한 KPI(CAC, LTV)의 구체적인 측정 지표와 초기 데이터 수집 파라미터를 최종 확정하고, 이를 개발팀에 전달\n- 코다리: business 에이전트가 제공한 KPI 명세(CAC/LTV 추적 지표)를 기반으로, 서비스 데이터 연동을 위한 초기 트래킹 환경 구축 방안(예\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: LTV:CAC 목표 달성을 위한 KPI(CAC, LTV)의 구체적인 측정 지표와 초기 데이터 수집 파라미터를 최종 확정하고, 이를 개발팀에 전달할 실행 명세를 작성하라.\n> 🔧 **도구 실행**: _(없음 — LLM",
+      "completedAt": "2026-05-15T07:28:51.127Z"
+    },
+    {
+      "id": "20260515072442-rhas",
+      "title": "LTV 계산 로직: 환불(Refund) 건 발생 시, 반드시 `total_revenue`에서 차감되는가?",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-15T07:24:42.982Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T07-18",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T07-18/_report.md\n- 현빈: LTV:CAC 목표 달성을 위한 KPI(CAC, LTV)의 구체적인 측정 지표와 초기 데이터 수집 파라미터를 최종 확정하고, 이를 개발팀에 전달\n- 코다리: business 에이전트가 제공한 KPI 명세(CAC/LTV 추적 지표)를 기반으로, 서비스 데이터 연동을 위한 초기 트래킹 환경 구축 방안(예\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: LTV:CAC 목표 달성을 위한 KPI(CAC, LTV)의 구체적인 측정 지표와 초기 데이터 수집 파라미터를 최종 확정하고, 이를 개발팀에 전달할 실행 명세를 작성하라.\n> 🔧 **도구 실행**: _(없음 — LLM",
+      "completedAt": "2026-05-15T07:28:51.187Z"
+    },
+    {
+      "id": "20260515072443-qs0v",
+      "title": "데이터 접근 권한: 마케팅팀에게는 CAC 지표에 대한 Read-Only 접근을 허용할 것.",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-15T07:24:43.162Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T07-18",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T07-18/_report.md\n- 현빈: LTV:CAC 목표 달성을 위한 KPI(CAC, LTV)의 구체적인 측정 지표와 초기 데이터 수집 파라미터를 최종 확정하고, 이를 개발팀에 전달\n- 코다리: business 에이전트가 제공한 KPI 명세(CAC/LTV 추적 지표)를 기반으로, 서비스 데이터 연동을 위한 초기 트래킹 환경 구축 방안(예\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: LTV:CAC 목표 달성을 위한 KPI(CAC, LTV)의 구체적인 측정 지표와 초기 데이터 수집 파라미터를 최종 확정하고, 이를 개발팀에 전달할 실행 명세를 작성하라.\n> 🔧 **도구 실행**: _(없음 — LLM",
+      "completedAt": "2026-05-15T07:28:51.244Z"
+    }
+  ]
+}
